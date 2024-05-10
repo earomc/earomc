@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Moritz aka earomc 👋
+
+- 🌱 I’m currently learning Rust 🦀, HTML, CSS and JavaScript 😒...
+- 📫 How to reach me: **Discord**: earomc
+- ⚡ Fun fact: I really like food and music
 
 <!--
 **earomc/earomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
