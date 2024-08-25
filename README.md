@@ -5,6 +5,10 @@
 - 📫 How to reach me: **Discord**: earomc
 - ⚡ Fun fact: I really like food and music. Incredible.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earomc&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=earomc&show_icons=true&theme=dark)
+
 <!--
 **earomc/earomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
