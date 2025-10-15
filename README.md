@@ -3,9 +3,8 @@
 This is my "About Me" page ... if you care about that stuff ...
 
 - I am a human! YES! Real human. Wow :O :D
-- Making my own programming language. But it will take a decade until that's done.
-- My interests in programming are W  I  D  E
-- I do programming professionally 😎😎 so I don't commit here all that often.
+- Making my own programming language. But that will prolly take a decade till that's done.
+- My interests in programming are mainly at developing my compiler atm, but gamedev also seems pretty fun.
 
 - Languages I ever used (in order of learning): Scratch, Python, Java, Lua, JavaScript, Rust, C, TypeScript, Odin, [Mo](https://molang.org/)
 - Languages I want to learn (or learn more of) in order of priority: C, Zig, Odin, Kotlin, Haskell, [Uiua?!? whar?](https://www.uiua.org/)
@@ -13,11 +12,11 @@ This is my "About Me" page ... if you care about that stuff ...
 
 - I like making neapolitan pizza and borgir.
 - I used to host my own Minecraft server from 2017-2021 which is down because I don't have enough time and motivation to put into supporting it.
-- Sorry ... I use Windows.
+- Fedora user 🤓🤓🤓🤓🤓🤓
 
 ##### Weaknesses:
-- front end :(
-- dynamically typed languages. (i hate python, all my homies hate python)
+- me no likey frontend gorbag :(
+- dynamically typed, interpreted languages *schAudEr* (i hate python, all my homies hate python)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earomc&layout=compact&theme=dark)
 
