@@ -18,10 +18,6 @@ This is my "About Me" page ... if you care about that stuff ...
 - me no likey frontend gorbag :(
 - dynamically typed, interpreted languages *schAudEr* (i hate python, all my homies hate python)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earomc&layout=compact&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=earomc&show_icons=true&theme=dark)
-
 ![rustmeme](https://github.com/user-attachments/assets/7a095710-9391-44c6-82df-4ebdac222bc2)
 
 <!--
